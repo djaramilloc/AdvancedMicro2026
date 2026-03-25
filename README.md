@@ -6,5 +6,5 @@ Profesor: Daniel Jaramillo Calderon
 
 Material:
 
-- Intro
-- L1: El Problema del Consumidor
+- [Intro](lecturenotes/0intro.pdf)
+- [L1: El Problema del Consumidor](lecturenotes/L1_UMax.pdf)
