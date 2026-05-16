@@ -8,6 +8,9 @@ Profesor: Daniel Jaramillo Calderon
 
 - [Intro](lecturenotes/0intro.pdf)
 - [L1: El Problema del Consumidor](lecturenotes/L1_UMax.pdf)
+- [L2: Preferencias Reveladas](lecturenotes/L2_WARP.pdf)
+- [L3: Incertidumbre](lecturenotes/L3_Uncertainty.pdf)
+- [L4: El problema de la Firma](lecturenotes/L4_Firm.pdf)
 
 **Soluciones**
 
