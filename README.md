@@ -11,6 +11,9 @@ Profesor: Daniel Jaramillo Calderon
 - [L2: Preferencias Reveladas](lecturenotes/L2_WARP.pdf)
 - [L3: Incertidumbre](lecturenotes/L3_Uncertainty.pdf)
 - [L4: El problema de la Firma](lecturenotes/L4_Firm.pdf)
+- [L5: El problema de la Firma](lecturenotes/L5_PartialEq.pdf)
+- [L6: Intro Teoría de Juegos](lecturenotes/L6_StaticGames.pdf)
+- [L7: Juegos Extensivos](lecturenotes/L7_ExtensiveGames.pdf)
 
 **Soluciones**
 
