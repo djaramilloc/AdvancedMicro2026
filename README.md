@@ -16,3 +16,6 @@ Profesor: Daniel Jaramillo Calderon
 
 - [PSet1](Problem_sets/Pset%201.pdf)
 - [PSet2](Problem_sets/Pset%202.pdf)
+- [PSet3](Problem_sets/Pset3_solutions.pdf)
+- [PSet4](Problem_sets/Pset4_2026_soluciones.pdf)
+- [PSet5](Problem_sets/pset5_2026_soluciones.pdf)
