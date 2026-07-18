@@ -22,5 +22,5 @@ Profesor: Daniel Jaramillo Calderon
 - [PSet3](Problem_sets/Pset3_solutions.pdf)
 - [PSet4](Problem_sets/Pset4_2026_soluciones.pdf)
 - [PSet5](Problem_sets/pset5_2026_soluciones.pdf)
-- [PSet7](Problem_sets/pset5_2026_soluciones.pdf)
-- [PSet8](Problem_sets/pset5_2026_soluciones.pdf)
+- [PSet7](Problem_sets/Solutions_pset7_2026.pdf)
+- [PSet8](Problem_sets/solutions_Pset8_2026.pdf)
